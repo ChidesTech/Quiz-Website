@@ -1,0 +1,27 @@
+.quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.subtitle {
+  font-size: 30px;
+  border: 1px solid blue;
+  box-shadow: 4px 2px 2px blue;
+  padding: 5px 10px;
+  color: blue;
+  font-weight: bolder;
+  font-family: cursive;
+  letter-spacing: 5px;
+}
+
+.quizInfo {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  text-transform: uppercase;
+  margin: 10px;
+  font-weight: bolder;
+  
+}
